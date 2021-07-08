@@ -7,7 +7,7 @@
 ~pkg install python
 ~git clone https://github.com/KirillTank/prostoikalkylator
 ~cd prostoikalkylator
-~python kalk.py
+~python Kalk.py
 
 
 Это ~ для того чтоб не запутаться в коде ~~~~~~
