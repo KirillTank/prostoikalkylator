@@ -1,7 +1,10 @@
 # prostoikalkylator
 Калькулятор
-Написан на pythone можно использвать в termux
-pkg install python
-А для запуска 
-python kalk.py
+Написан на питоне для установки для термукс надо 
 
+
+pkg install git
+pkg install python
+git clone https://github.com/KirillTank/prostoikalkylator
+cd prostoikalkylator
+python kalk.py
